@@ -1,6 +1,6 @@
 # Sample APIs 2.0
 
-Sample APIs has been given a major overhaul. Due to the fact Vercel.com has changed the way their servers work, we have had to rethink how the system was built. Over all, the changes are for the better. It is now easier than ever to contribute.
+Sample APIs has been given a major overhaul. Due to the fact Vercel.com has changed the way their servers work, we have had to rethink how the system was built. Over all, the changes are for the better. Contribution has now become much more easier than ever.
 
 ## Purpose
 
